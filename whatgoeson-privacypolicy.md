@@ -20,14 +20,7 @@ This Privacy Policy describes how we collect, use, and share information when yo
 
 ## How We Use Your Information
 
-We may use the information we collect for the following purposes:
-
-*   **To provide and maintain the App:** [e.g., to allow you to use the App's features]
-*   **To improve the App:** [e.g., to understand how users use the App and make it better]
-*   **To personalize your experience:** [e.g., to show you content that may be relevant to you]
-*   **To communicate with you:** [e.g., to respond to your support requests]
-*   **To monitor and analyze usage:** [e.g., to track trends and usage patterns]
-* **To store data locally:** The app stores data about albums, artists, and favourite albums locally on your device.
+We do not knowingly collect or use any information from the app
 
 ## How We Share Your Information
 
