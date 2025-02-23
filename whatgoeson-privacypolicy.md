@@ -6,15 +6,8 @@
 
 This Privacy Policy describes how we collect, use, and share information when you use the WhatGoesOn mobile application (the "App").
 
-We are committed to protecting your privacy. This policy explains our data practices and your choices regarding your information.
-
-## Information We Collect
-
-We may collect the following types of information:
-
-### Information You Provide Directly
-    *   No account information
-    *   No content you create or upload: [e.g., text, images, audio, video]
+   *   No account information
+   *   No content you create or upload: [e.g., text, images, audio, video]
 
 ### Information We Collect Automatically
 
